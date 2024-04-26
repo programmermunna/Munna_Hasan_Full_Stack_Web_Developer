@@ -210,7 +210,7 @@
     </div>
 
     <div class="viewall">
-      <a href="/projects/index.html" class="btn"><span>View All</span>
+      <a href="/projects/index.php" class="btn"><span>View All</span>
         <i class="fas fa-arrow-right"></i>
       </a>
     </div>
